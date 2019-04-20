@@ -1,0 +1,31 @@
+Package: com.leduy1102.vinapleduy
+Name: Ví Nạp Lê Duy
+Version: 2.0
+Architecture: iphoneos-arm
+Filename: ./debs/vinapleduy.deb
+SHA1:891131005541c63eada3afff114bfa8194ffd65c
+SHA256:c611f758a8763cbe9a510fe888db4cab17d0ac9b67fb5ae24e19767e2af1ca00
+Size:62140
+MD5sum:2d37ab79e6e2d01c15e6766dd49695dc
+Description: Ví nạp game của Lê Duy
+Author: Le Duy <leduyvip8888@gmail.com>
+Section: System
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: Le Duy <leduyvip8888@gmail.com>
+Author: Lê Duy
+
+Package: com.leduy1102.vixaleduy
+Name: Ví Xả Lê Duy
+Version: 2.0
+Architecture: iphoneos-arm
+Filename: ./debs/vixaleduy.deb
+SHA1:943626039ae3488cd8baadd2207508eacc741521
+SHA256:35f4e7e3de1129d379da06e4f8c391edca398653b0c232175dd88822316ac4ed
+Size:56548
+MD5sum:1a93af4fb065f790cca351f379db56c9
+Description: Ví xả game của Lê Duy
+Author: Le Duy <leduyvip8888@gmail.com>
+Section: System
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: Le Duy <leduyvip8888@gmail.com>
+Author: Lê Duy
