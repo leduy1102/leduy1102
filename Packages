@@ -37,7 +37,7 @@ Architecture: iphoneos-arm
 Filename: ./debs/hpfaketweak.deb
 SHA1:86b6bcfbb70040cddf45ed5f03ce43db270d464c
 SHA256:2b9c42949d0a1c1e0c0e6ecb60500f9c7acacffe26386d1658cfdaa133a31dc6
-Size:56548
+Size:85750
 MD5sum:faf3aa1ab10959c3612cdfa7d26731f8
 Description: File change Lê Duy
 Author: Le Duy <leduyvip8888@gmail.com>
