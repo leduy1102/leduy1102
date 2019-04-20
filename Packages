@@ -45,3 +45,35 @@ Section: Tweaks
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: Le Duy <leduyvip8888@gmail.com>
 Author: Lê Duy
+
+Package: com.leduy1102.xan2t
+Name: Ví Xả N2T
+Version: 0.0.1-72+debug
+Architecture: iphoneos-arm
+Filename: ./debs/xan2t.deb
+SHA1:1769494b2c373bc89aafc95a94d8909f01041189
+SHA256:ce230d2f71dace9025a41a65c7dc68ab4ffb849def1665f10eaa814060dd215a
+Size:120046
+MD5sum:e68d23acc2f73d5a3671f83674d8cb03
+Description: Ví nạp game của Lê Duy
+Author: Le Duy <leduyvip8888@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: Le Duy <leduyvip8888@gmail.com>
+Author: Lê Duy
+
+Package: com.leduy1102.xahang
+Name: Ví Xả Hàng
+Version: 0.0.1-78+debug
+Architecture: iphoneos-arm
+Filename: ./debs/xahang.deb
+SHA1:b31afd8966abeee296bd87ec4b62da4d0c3999e7
+SHA256:b9660aa00b1f3f42ec01a50c71a4294dbd2862c1f5f243b51af56771413b5ab5
+Size:120054
+MD5sum:097a9e9673b77c969766c0720dc0cc9d
+Description: Ví nạp game của Lê Duy
+Author: Le Duy <leduyvip8888@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: Le Duy <leduyvip8888@gmail.com>
+Author: Lê Duy
