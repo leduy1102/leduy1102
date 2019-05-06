@@ -93,3 +93,19 @@ Section: Tweaks
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: Le Duy <leduyvip8888@gmail.com>
 Author: Lê Duy
+
+Package: com.leduy1102.vixabinh
+Name: Ví Xả Bình
+Version: 0.0.1-6+debug
+Architecture: iphoneos-arm
+Filename: ./debs/vixabinh.deb
+SHA1:c53fc8e60a7af3c71e6f89e61b8f651c374f1e48
+SHA256:de467a50f8f49e344e8708e0054ffc68fc002cbc0cb588d4e5d28264d4f30870
+Size:117674
+MD5sum:8db8af418a43ac93846d40b8573e1597
+Description: Ví nạp game của Lê Duy
+Author: Le Duy <leduyvip8888@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: Le Duy <leduyvip8888@gmail.com>
+Author: Lê Duy
