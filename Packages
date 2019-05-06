@@ -77,3 +77,19 @@ Section: Tweaks
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: Le Duy <leduyvip8888@gmail.com>
 Author: Lê Duy
+
+Package: com.leduy1102.vinapn2t
+Name: Ví Nạp N2T
+Version: 0.0.1-54+debug
+Architecture: iphoneos-arm
+Filename: ./debs/vinapn2t.deb
+SHA1:40bb97bc8a2395825b8e3afc208948ff1231597b
+SHA256:d39fc5405e67d7786daa8756e67e9077089ade9848e334a6499eeb5b9ad98598
+Size:130398
+MD5sum:da9e66222dfd073f1ac0ce914060f2a3
+Description: Ví nạp game của Lê Duy
+Author: Le Duy <leduyvip8888@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: Le Duy <leduyvip8888@gmail.com>
+Author: Lê Duy
