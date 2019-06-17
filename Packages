@@ -109,3 +109,18 @@ Section: Tweaks
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: Le Duy <leduyvip8888@gmail.com>
 Author: Lê Duy
+
+Package: com.leduy1102.vab
+Name:VAB
+Version: 1.0.2-22
+Architecture: iphoneos-arm
+Filename: ./debs/vab.deb
+SHA1:216258c08be203ebba3f0c460917afff63923d44
+SHA256:11f0c540cde6b48cb6b2e5a75c2cf00eb090d00cff31e5bde8762ce654f106eb
+Size:72378
+MD5sum:42719f27ecfb4901353124600a3345ca
+Description: Ví nạp game của Lê Duy
+Author: Le Duy <leduyvip8888@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: Le Duy <leduyvip8888@gmail.com>
