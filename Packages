@@ -124,3 +124,36 @@ Author: Le Duy <leduyvip8888@gmail.com>
 Section: Tweaks
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: Le Duy <leduyvip8888@gmail.com>
+
+
+Package: com.leduy1102.vinaph
+Name: Ví Nạp H
+Version: 0.0.1-66
+Architecture: iphoneos-arm
+Filename: ./debs/vinaph.deb
+MD5sum:ec511c30acbc52d22c625f799152786b
+SHA1:320f82d657900aadbec0fb9867947c242ef2c64d
+SHA256:dee04b871a6be606509a7f7df8cf4cf25c727c15e189d56ca59c5452a46f45fa
+Size:81478
+Description: Ví nạp game của Lê Duy
+Author: Le Duy 
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: Le Duy 
+Author: Le Duy
+
+Package: com.leduy1102.vixah
+Name: Ví Xả H
+Version: 0.0.1-81
+Architecture: iphoneos-arm
+Filename: ./debs/vixah.deb
+MD5sum:0c2c3410b91c3003766e091e11c36da3
+SHA1:db020c46c636000caea79988352cb128bed3d70f
+SHA256:a4f7de3401d75cdc1492384910add7869b22275eec81c240dc452117abd0eadf
+Size:70764
+Description: Ví nạp game của Lê Duy
+Author: Le Duy 
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: Le Duy 
+Author: Le Duy
