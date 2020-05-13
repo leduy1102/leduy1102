@@ -124,3 +124,35 @@ Author: Le Duy <leduyvip8888@gmail.com>
 Section: Tweaks
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: Le Duy <leduyvip8888@gmail.com>
+
+Package: com.leduy1102.1112nap
+Name: 1112 Nạp
+Version: 0.0.1-66
+Architecture: iphoneos-arm
+Filename: ./debs/1112nap.deb
+SHA1:a9650f06cfff0b2c23b7eaaf29e8ad28d5aef046
+SHA256:6ec0da382b870a16048cea6f3a94cfe7f160b171e85fbdee2c8f67b2af998b79
+Size:81456
+MD5sum:e9c76b46281d6f45c259c6258916dbeb
+Description: Ví nạp game của Lê Duy
+Author: Le Duy <leduyvip8888@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: Le Duy <leduyvip8888@gmail.com>
+Installed-Size:256
+
+Package: com.leduy1102.1112xa
+Name: 1112 Xả
+Version: 0.0.1-81
+Architecture: iphoneos-arm
+Filename: ./debs/1112xa.deb
+SHA1:6e31e410d608093f4b2cbafa62c805f1e7aa6e4e
+SHA256:77d059bd8df22ae9b29c374e78b8795ae666859f817cd73563ddec8f3c694f26
+Size:70732
+MD5sum:5b815bb513122cc46bef59f256409fe3
+Description: Ví nạp game của Lê Duy
+Author: Le Duy <leduyvip8888@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: Le Duy <leduyvip8888@gmail.com>
+Installed-Size:224
