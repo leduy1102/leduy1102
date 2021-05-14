@@ -156,3 +156,19 @@ Section: Tweaks
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: Le Duy <leduyvip8888@gmail.com>
 Installed-Size:224
+
+Package: com.leduy1102.1112xanew
+Name: 1112 Xa New
+Version: 0.0.1-186
+Architecture: iphoneos-arm
+Filename: ./debs/1112xanew.deb
+SHA1:f5de5bfe66fc011014d055c5b3246cf4a172c15e
+SHA256:a770c830c59774651dbeb547c847e96a104417e4ee2fffc0df7bf8cc13dcc756
+Size:782970
+MD5sum:4977a77e799c57cf70eef464cc2c8130
+Description: Ví nạp game của Lê Duy
+Author: Le Duy <leduyvip8888@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: Le Duy <leduyvip8888@gmail.com>
+Installed-Size:1896
